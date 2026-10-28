@@ -14,8 +14,8 @@ import re
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "guiaintern@gmail.com"
-PASSWORD = "ABCabc123!"
+EMAIL = "YOUR_TEST_EMAIL"
+PASSWORD = "YOUR_TEST_PASSWORD"
 
 # TEST DATA
 LEAD_NAME = "Bean & Leaf Coffee"
