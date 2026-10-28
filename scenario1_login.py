@@ -9,8 +9,8 @@ from selenium.common.exceptions import TimeoutException
 # ==========================================
 
 # TEST DATA
-EMAIL = "YOUR_TEST_EMAIL"
-PASSWORD = "YOUR_TEST_PASSWORD"
+EMAIL = "BSIT3C@gmail.com"
+PASSWORD = "BSIT3C-QualityAssurance!"
 
 
 # ==========================================
