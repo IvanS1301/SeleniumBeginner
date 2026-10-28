@@ -112,7 +112,7 @@ try:
 
         print()
         print("-----------------------------------")
-        print("TEST PASSED")
+        print("SCENARIO 1: TEST PASSED")
         print("User successfully logged in.")
         print("Dashboard is displayed.")
         print("-----------------------------------")
