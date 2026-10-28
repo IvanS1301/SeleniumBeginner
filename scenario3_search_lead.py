@@ -89,7 +89,7 @@ try:
     )
 
     print("-----------------------------------")
-    print("TEST PASSED: Lead found!")
+    print("SCENARIO 3: TEST PASSED - Lead found!")
     print("Lead name:", matching_lead.text)
     print("The search returned the expected lead.")
     print("-----------------------------------")
