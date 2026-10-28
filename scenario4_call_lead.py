@@ -9,12 +9,12 @@ from selenium.common.exceptions import TimeoutException
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "BSIT3C@gmail.com"
-PASSWORD = "BSIT3C-QualityAssurance!"
+EMAIL = "AGENT3C@gmail.com"
+PASSWORD = "AGENT3C-QualityAssurance!"
 
 # TEST DATA
-LEAD_NAME = "Soriano, Ivan D."
-LEAD_PHONE = "09123456789"
+LEAD_NAME = "Westgate Warehousing"
+LEAD_PHONE = "61 9 9851 2909"
 
 # ==========================================
 # STEP 1: CONFIGURE CHROME
