@@ -11,17 +11,17 @@ from selenium.webdriver.common.keys import Keys
 # ==========================================
 
 # Replace with your test account credentials
-EMAIL = "YOUR_TEST_EMAIL"
-PASSWORD = "YOUR_TEST_PASSWORD"
+EMAIL = "BSIT3C@gmail.com"
+PASSWORD = "BSIT3C-QualityAssurance!"
 
 # Use unique test data for each run
-LEAD_NAME = "LastName_FirstName_MiddleName"
+LEAD_NAME = "Soriano, Ivan D."
 LEAD_TYPE = "Schools"
 PHONE = "09123456789"
 STREET = "131313 Test Street"
 CITY = "San Fernando"
 POSTCODE = "2000"
-LEAD_EMAIL = "ivan@example.com"
+LEAD_EMAIL = "ivan@gmail.com"
 
 # ==========================================
 # STEP 1: OPEN CHROME
