@@ -9,11 +9,11 @@ from selenium.common.exceptions import TimeoutException
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "YOUR_TEST_EMAIL"
-PASSWORD = "YOUR_TEST_PASSWORD"
+EMAIL = "BSIT3C@gmail.com"
+PASSWORD = "BSIT3C-QualityAssurance!"
 
 # TEST DATA
-LEAD_NAME = "Selenium Test Lead 004"
+LEAD_NAME = "Soriano, Ivan D."
 LEAD_PHONE = "09123456789"
 
 # ==========================================
