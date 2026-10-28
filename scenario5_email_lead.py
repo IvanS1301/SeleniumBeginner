@@ -18,8 +18,8 @@ EMAIL = "AGENT3C@gmail.com"
 PASSWORD = "AGENT3C-QualityAssurance!"
 
 # TEST DATA
-LEAD_NAME = "Soriano, Ivan D."
-EXPECTED_RECIPIENT = "ivan@gmail.com"
+LEAD_NAME = "Westgate Warehousing"
+EXPECTED_RECIPIENT = "contact024@business024.example"
 
 SUBJECT_TEMPLATE = (
     "Congratulations! You're Eligible for a Free Hot Water System Upgrade"
