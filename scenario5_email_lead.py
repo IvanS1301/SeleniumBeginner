@@ -14,12 +14,12 @@ import re
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "YOUR_TEST_EMAIL"
-PASSWORD = "YOUR_TEST_PASSWORD"
+EMAIL = "BSIT3C@gmail.com"
+PASSWORD = "BSIT3C-QualityAssurance!"
 
 # TEST DATA
-LEAD_NAME = "Bean & Leaf Coffee"
-EXPECTED_RECIPIENT = "contact056@business056.example"
+LEAD_NAME = "Soriano, Ivan D."
+EXPECTED_RECIPIENT = "ivan@gmail.com"
 
 SUBJECT_TEMPLATE = (
     "Congratulations! You're Eligible for a Free Hot Water System Upgrade"
