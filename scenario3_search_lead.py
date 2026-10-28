@@ -9,11 +9,11 @@ from selenium.common.exceptions import TimeoutException
 # ==========================================
 
 # Test data: Use a lead created in Scenario 2
-LEAD_NAME = "Selenium Test Lead 008"
+LEAD_NAME = "Soriano, Ivan D."
 
 # Replace these with your demo account credentials
-EMAIL = "YOUR_TEST_EMAIL"
-PASSWORD = "YOUR_TEST_PASSWORD"
+EMAIL = "BSIT3C@gmail.com"
+PASSWORD = "BSIT3C-QualityAssurance!"
 
 
 driver = webdriver.Chrome()
