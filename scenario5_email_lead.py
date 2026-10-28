@@ -14,8 +14,8 @@ import re
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "BSIT3C@gmail.com"
-PASSWORD = "BSIT3C-QualityAssurance!"
+EMAIL = "AGENT3C@gmail.com"
+PASSWORD = "AGENT3C-QualityAssurance!"
 
 # TEST DATA
 LEAD_NAME = "Soriano, Ivan D."
