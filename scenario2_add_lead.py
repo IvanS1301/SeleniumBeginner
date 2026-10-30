@@ -11,8 +11,8 @@ from selenium.webdriver.common.keys import Keys
 # ==========================================
 
 # Replace with your test account credentials
-EMAIL = "BSIT3C@gmail.com"
-PASSWORD = "BSIT3C-QualityAssurance!"
+EMAIL = "BSIT3B@gmail.com"
+PASSWORD = "BSIT3B-QualityAssurance!"
 
 # Use unique test data for each run
 LEAD_NAME = "Soriano, Ivan D."
