@@ -14,12 +14,12 @@ import re
 # ==========================================
 
 # TEST ACCOUNT CREDENTIALS
-EMAIL = "AGENT3C@gmail.com"
-PASSWORD = "AGENT3C-QualityAssurance!"
+EMAIL = "AGENT3B@gmail.com"
+PASSWORD = "AGENT3B-QualityAssurance!"
 
 # TEST DATA
-LEAD_NAME = "Westgate Warehousing"
-EXPECTED_RECIPIENT = "contact024@business024.example"
+LEAD_NAME = "Dressed by Jackie"
+EXPECTED_RECIPIENT = "mikeandjac@live.com.au"
 
 SUBJECT_TEMPLATE = (
     "Congratulations! You're Eligible for a Free Hot Water System Upgrade"
@@ -321,10 +321,10 @@ try:
 
     # Replace these example values with approved information.
     PLACEHOLDER_VALUES = {
-        "[Customer's Name]": "Alex Johnson",
+        "[Customer's Name]": "Ivan Soriano",
         "[Your Contact Information]": "1300 000 000",
         "[Your Website URL]": "https://example.com",
-        "[Telemarketer Name]": "Jordan Smith",
+        "[Telemarketer Name]": "BSIT 3B",
     }
 
     # ==========================================
