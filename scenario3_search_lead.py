@@ -12,8 +12,8 @@ from selenium.common.exceptions import TimeoutException
 LEAD_NAME = "Soriano, Ivan D."
 
 # Replace these with your demo account credentials
-EMAIL = "BSIT3C@gmail.com"
-PASSWORD = "BSIT3C-QualityAssurance!"
+EMAIL = "BSIT3B@gmail.com"
+PASSWORD = "BSIT3B-QualityAssurance!"
 
 
 driver = webdriver.Chrome()
