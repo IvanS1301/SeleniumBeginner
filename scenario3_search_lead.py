@@ -9,7 +9,7 @@ from selenium.common.exceptions import TimeoutException
 # ==========================================
 
 # Test data: Use a lead created in Scenario 2
-LEAD_NAME = "Soriano, Ivan D."
+LEAD_NAME = "Dressed by Jackie"
 
 # Replace these with your demo account credentials
 EMAIL = "AGENT3B@gmail.com"
