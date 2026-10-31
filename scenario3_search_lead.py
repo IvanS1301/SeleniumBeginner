@@ -12,8 +12,8 @@ from selenium.common.exceptions import TimeoutException
 LEAD_NAME = "Soriano, Ivan D."
 
 # Replace these with your demo account credentials
-EMAIL = "BSIT3B@gmail.com"
-PASSWORD = "BSIT3B-QualityAssurance!"
+EMAIL = "AGENT3B@gmail.com"
+PASSWORD = "AGENT3B-QualityAssurance!"
 
 
 driver = webdriver.Chrome()
@@ -65,7 +65,7 @@ try:
 
     # STEP 6: Wait for the Leads page heading
     wait.until(
-        EC.visibility_of_element_located((By.XPATH, "//*[normalize-space()='LEADS']"))
+        EC.visibility_of_element_located((By.XPATH, "//*[normalize-space()='ASSIGNED LEADS']"))
     )
 
     print("Leads page opened.")
